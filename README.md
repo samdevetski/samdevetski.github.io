@@ -23,3 +23,16 @@ project cards, and visible keyboard-focus indicators.
 
 - Confirmed all project, résumé, and LinkedIn links work.
 - Checked the layout at a narrow browser width.
+
+### NFC portfolio tag
+
+Programmed a writable NFC tag with:
+https://samdevetski.github.io/
+
+Used NFC Tools by wakdev on an iPhone 14 Pro Max.
+
+Verified that scanning the unattached tag outside NFC Tools
+opens the correct portfolio website.
+
+The tag remains rewritable. Testing after nail application
+and gel curing is still pending.
