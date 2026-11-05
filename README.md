@@ -45,3 +45,14 @@ https://www.linkedin.com/in/samdevetski/
 Tested both the portfolio and LinkedIn tags after nail
 application and painting. Both successfully opened their
 intended destinations on an iPhone 14 Pro Max.
+
+### Conference readiness checks
+
+- [ ] Website NFC nail opens the portfolio.
+- [ ] LinkedIn NFC nail opens the correct profile.
+- [ ] Website résumé link opens the updated color PDF.
+- [ ] Training-log demo opens from the portfolio.
+- [ ] Demo filters and latest-workout display work on mobile.
+- [ ] Practiced a short project introduction.
+
+Public workout demonstrations use fictional data.
