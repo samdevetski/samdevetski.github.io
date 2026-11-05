@@ -36,3 +36,12 @@ opens the correct portfolio website.
 
 The tag remains rewritable. Testing after nail application
 and gel curing is still pending.
+
+### LinkedIn NFC tag and nail testing
+
+Programmed a second NFC tag to open:
+https://www.linkedin.com/in/samdevetski/
+
+Tested both the portfolio and LinkedIn tags after nail
+application and painting. Both successfully opened their
+intended destinations on an iPhone 14 Pro Max.
